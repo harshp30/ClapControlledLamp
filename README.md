@@ -16,12 +16,12 @@ The arduino then sends that signal to a relay (TE213) that controls the led/lamp
 came with some minor challenges such as creating one seamless piece instead of the lmap and arduino completely seprated.
 To fix this issue I pushed everything into the lamp and placed the lamp on a plastic container that I cut small slits into for the microphone sound sensor and the arduino power cable.
 
-Challenges
+Challenges:
 
 For this project the tougher part was the hardware. Arranging eveyrthing into the base of the lamp was a bit challenging.
 The softwrae also had a few challenegs, one of them being having to create a time delay between the two claps to make sure no random sounds turn on the lamp.
 
-Lessons
+Lessons:
 
 This was great software hardware that let me work with relays and also allowing me to apply a project to a pre-existing object (in this case the lamp).
 It makes a bit trickier to make a project around something physical rather than from scratch.
