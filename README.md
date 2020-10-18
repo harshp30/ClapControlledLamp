@@ -6,10 +6,6 @@ Youtube Demonstration: https://youtu.be/LlXZIP_lnOM
 
 Pictures Link: https://drive.google.com/drive/folders/1XYnzSCiZKlhlMcc99XwAgozUeIAGaL_I?usp=sharing
 
-Time: approximately 2 hours
-
-Price: approximately $10
-
 A project that originally started off with a led, and later inetgrated with a lamp. The system works like a clap lamp. 
 The user claps twice (200 milliseconds apart) and a microphone sensor (DAOKI) which then read those values and sends them too the arduino. 
 The arduino then sends that signal to a relay (TE213) that controls the led/lamp. Implementing the system into a lmap 
