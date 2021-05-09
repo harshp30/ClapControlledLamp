@@ -2,7 +2,7 @@
 
 January 2020
 
-Inspired by: https://www.instructables.com/Turn-on-and-Off-a-Lamp-Clapping-Twice-Using-Arduin/ 
+Tutorial by: https://www.instructables.com/Turn-on-and-Off-a-Lamp-Clapping-Twice-Using-Arduin/ 
 
 Youtube Demonstration: https://youtu.be/LlXZIP_lnOM
 
